@@ -1,1 +1,0 @@
-# gratitude-discord-bot
